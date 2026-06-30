@@ -1,1 +1,1 @@
-# Maaden-Career-Guidance-Platform
+Prepared a comprehensive business and project analysis document for an entrepreneurial career guidance platform that supports job seekers in career path selection, professional certification planning, resume review, and career project evaluation. Defined project objectives, scope, target audience, and quality standards to support strategic planning and development.# Maaden-Career-Guidance-Platform
